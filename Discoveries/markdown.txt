@@ -1,0 +1,21 @@
+## 📌 Candidate 1: Trap Reversal + Spring Break (AAPL 15min - 28 May 2025)
+
+**Pattern Type:** Compression Fakeout Reversal  
+**Asset:** AAPL  
+**Timeframe:** 15-Min  
+**Date:** 28 May 2025
+
+### ✅ Pattern Elements:
+- Large selloff → range compression
+- Reversal wick traps late sellers
+- Breakout with full-bodied candle
+- Volume rises slightly on breakout
+
+### 📷 Chart:
+![AAPL Chart](https://github.com/giddygoose/Project-Grail/blob/main/AAPL/Charts/AAPL_15min_2025-05-28.PNG?raw=true)
+
+---
+
+🔍 **To Track**:  
+Look for similar behavior in SOL and FTSE100. If this same wick trap → compression → breakout pattern appears often, we may have a foundational setup.
+
